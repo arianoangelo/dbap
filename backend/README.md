@@ -1,3 +1,6 @@
-# Strapi application
+# Backend
 
-A quick description of your strapi application
+This is the code for Strapi, the website backend.
+
+
+Feel free to explore my changes and use my code to learn on in your projects.
